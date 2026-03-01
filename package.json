@@ -12,6 +12,7 @@
     "inquirer": "^13.3.0"
   },
   "devDependencies": {
-    "@types/inquirer": "^9.0.9"
+    "@types/inquirer": "^9.0.9",
+    "@types/node": "^25.3.3"
   }
 }
