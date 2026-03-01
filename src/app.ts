@@ -1,5 +1,4 @@
 import { FfmpegExecutor } from "./commands/ffmpeg/ffmpeg.exexutor";
-import { PromptService } from "./core/prompt/prompt.service";
 import { ConsoleLogger } from "./out/console-logger/console-logger";
 
 export class App {
